@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajkarthickt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajkarthickt" height="30" width="40" /></a>
+<a href="https://twitter.com/itskarthickt" target="blank"><img align="center" src="https://img.shields.io/twitter/url.svg?url=https%3A%2F%2Ftwitter.com%2Fitskarthickt" alt="itskarthickt" height="30" width="90" /></a>
 <a href="https://stackoverflow.com/users/1954766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1954766" height="30" width="40" /></a>
 </p>
 
